@@ -1,0 +1,949 @@
+innings1_runs,innings2_runs,Season,Innings1_BattingTeam,Innings2_BattingTeam,Venue
+44,31,2022,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad"
+46,67,2022,Royal Challengers Bangalore,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad"
+52,62,2022,Royal Challengers Bangalore,Lucknow Super Giants,"Eden Gardens, Kolkata"
+55,64,2022,Rajasthan Royals,Gujarat Titans,"Eden Gardens, Kolkata"
+43,62,2022,Sunrisers Hyderabad,Punjab Kings,"Wankhede Stadium, Mumbai"
+37,27,2022,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai"
+75,52,2022,Chennai Super Kings,Rajasthan Royals,"Brabourne Stadium, Mumbai"
+38,55,2022,Gujarat Titans,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+44,60,2022,Lucknow Super Giants,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai"
+57,51,2022,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai"
+59,54,2022,Delhi Capitals,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai"
+51,34,2022,Rajasthan Royals,Lucknow Super Giants,"Brabourne Stadium, Mumbai"
+47,53,2022,Chennai Super Kings,Gujarat Titans,"Wankhede Stadium, Mumbai"
+55,31,2022,Kolkata Knight Riders,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune"
+83,44,2022,Punjab Kings,Royal Challengers Bangalore,"Brabourne Stadium, Mumbai"
+32,36,2022,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai"
+43,38,2022,Rajasthan Royals,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai"
+35,37,2022,Gujarat Titans,Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune"
+64,37,2022,Kolkata Knight Riders,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai"
+57,59,2022,Chennai Super Kings,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai"
+47,39,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai"
+66,25,2022,Lucknow Super Giants,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune"
+48,67,2022,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+63,54,2022,Mumbai Indians,Gujarat Titans,"Brabourne Stadium, Mumbai"
+50,35,2022,Delhi Capitals,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai"
+57,51,2022,Royal Challengers Bangalore,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune"
+42,43,2022,Gujarat Titans,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai"
+38,32,2022,Rajasthan Royals,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+40,58,2022,Chennai Super Kings,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune"
+57,66,2022,Lucknow Super Giants,Delhi Capitals,"Wankhede Stadium, Mumbai"
+40,41,2022,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai"
+43,46,2022,Royal Challengers Bangalore,Gujarat Titans,"Brabourne Stadium, Mumbai"
+39,46,2022,Lucknow Super Giants,Punjab Kings,"Maharashtra Cricket Association Stadium, Pune"
+29,47,2022,Kolkata Knight Riders,Delhi Capitals,"Wankhede Stadium, Mumbai"
+53,59,2022,Sunrisers Hyderabad,Gujarat Titans,"Wankhede Stadium, Mumbai"
+43,37,2022,Rajasthan Royals,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune"
+37,32,2022,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+32,43,2022,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai"
+31,56,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai"
+47,34,2022,Gujarat Titans,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai"
+44,55,2022,Rajasthan Royals,Delhi Capitals,"Wankhede Stadium, Mumbai"
+42,46,2022,Mumbai Indians,Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai"
+47,81,2022,Punjab Kings,Delhi Capitals,"Brabourne Stadium, Mumbai"
+47,44,2022,Royal Challengers Bangalore,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai"
+60,57,2022,Rajasthan Royals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai"
+39,37,2022,Chennai Super Kings,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune"
+48,39,2022,Punjab Kings,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai"
+40,57,2022,Royal Challengers Bangalore,Delhi Capitals,"Wankhede Stadium, Mumbai"
+57,57,2022,Lucknow Super Giants,Mumbai Indians,"Brabourne Stadium, Mumbai"
+38,46,2022,Kolkata Knight Riders,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai"
+42,65,2022,Gujarat Titans,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai"
+65,42,2022,Punjab Kings,Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune"
+35,42,2022,Chennai Super Kings,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai"
+51,42,2022,Gujarat Titans,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai"
+44,31,2022,Rajasthan Royals,Lucknow Super Giants,"Wankhede Stadium, Mumbai"
+68,43,2022,Delhi Capitals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai"
+49,30,2022,Mumbai Indians,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune"
+41,37,2022,Chennai Super Kings,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai"
+43,53,2022,Punjab Kings,Gujarat Titans,"Brabourne Stadium, Mumbai"
+52,48,2022,Delhi Capitals,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai"
+35,35,2022,Mumbai Indians,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune"
+35,48,2022,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+32,40,2022,Lucknow Super Giants,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai"
+72,27,2022,Punjab Kings,Chennai Super Kings,"Brabourne Stadium, Mumbai"
+44,43,2022,Gujarat Titans,Delhi Capitals,"Maharashtra Cricket Association Stadium, Pune"
+48,50,2022,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai"
+62,51,2022,Punjab Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+73,55,2022,Chennai Super Kings,Lucknow Super Giants,"Brabourne Stadium, Mumbai"
+44,36,2022,Kolkata Knight Riders,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai"
+58,14,2022,Rajasthan Royals,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune"
+32,44,2022,Lucknow Super Giants,Gujarat Titans,"Wankhede Stadium, Mumbai"
+41,63,2022,Royal Challengers Bangalore,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai"
+53,46,2022,Mumbai Indians,Delhi Capitals,"Brabourne Stadium, Mumbai"
+35,43,2022,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+50,55,2021,Chennai Super Kings,Kolkata Knight Riders,Dubai International Cricket Stadium
+38,51,2021,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium
+53,48,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium
+51,59,2021,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium
+55,59,2021,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium
+35,46,2021,Mumbai Indians,Delhi Capitals,"Zayed Cricket Stadium, Abu Dhabi"
+57,49,2021,Rajasthan Royals,Punjab Kings,Sharjah Cricket Stadium
+48,51,2021,Chennai Super Kings,Delhi Capitals,Dubai International Cricket Stadium
+35,36,2021,Sunrisers Hyderabad,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi"
+48,56,2021,Royal Challengers Bangalore,Mumbai Indians,Sharjah Cricket Stadium
+29,20,2021,Punjab Kings,Sunrisers Hyderabad,Dubai International Cricket Stadium
+34,17,2021,Kolkata Knight Riders,Rajasthan Royals,Sharjah Cricket Stadium
+32,39,2021,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium
+24,41,2021,Chennai Super Kings,Mumbai Indians,Sharjah Cricket Stadium
+56,54,2021,Rajasthan Royals,Royal Challengers Bangalore,"Zayed Cricket Stadium, Abu Dhabi"
+48,46,2021,Kolkata Knight Riders,Punjab Kings,Dubai International Cricket Stadium
+55,29,2021,Delhi Capitals,Royal Challengers Bangalore,Sharjah Cricket Stadium
+49,63,2021,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium
+38,30,2021,Punjab Kings,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi"
+50,52,2021,Kolkata Knight Riders,Chennai Super Kings,Sharjah Cricket Stadium
+36,21,2021,Delhi Capitals,Rajasthan Royals,Dubai International Cricket Stadium
+56,63,2021,Mumbai Indians,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi"
+50,37,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Dubai International Cricket Stadium
+30,51,2021,Chennai Super Kings,Punjab Kings,"Zayed Cricket Stadium, Abu Dhabi"
+41,56,2021,Rajasthan Royals,Mumbai Indians,Sharjah Cricket Stadium
+39,44,2021,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium
+41,47,2021,Sunrisers Hyderabad,Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi"
+55,49,2021,Royal Challengers Bangalore,Punjab Kings,Dubai International Cricket Stadium
+44,81,2021,Chennai Super Kings,Rajasthan Royals,Dubai International Cricket Stadium
+83,70,2021,Mumbai Indians,Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi"
+41,56,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Dubai International Cricket Stadium
+39,63,2021,Punjab Kings,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad"
+42,57,2021,Rajasthan Royals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi"
+49,58,2021,Chennai Super Kings,Mumbai Indians,"Arun Jaitley Stadium, Delhi"
+49,36,2021,Punjab Kings,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad"
+45,67,2021,Kolkata Knight Riders,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad"
+47,49,2021,Rajasthan Royals,Mumbai Indians,"Arun Jaitley Stadium, Delhi"
+39,50,2021,Sunrisers Hyderabad,Chennai Super Kings,"Arun Jaitley Stadium, Delhi"
+36,43,2021,Royal Challengers Bangalore,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad"
+37,42,2021,Punjab Kings,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad"
+51,56,2021,Delhi Capitals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+51,65,2021,Chennai Super Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+25,50,2021,Kolkata Knight Riders,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+21,45,2021,Mumbai Indians,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+32,59,2021,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+54,45,2021,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+32,50,2021,Punjab Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+55,39,2021,Mumbai Indians,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+46,45,2021,Chennai Super Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+59,62,2021,Punjab Kings,Delhi Capitals,"Wankhede Stadium, Mumbai"
+45,57,2021,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+53,57,2021,Mumbai Indians,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+26,32,2021,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+36,26,2021,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+47,50,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+42,45,2021,Mumbai Indians,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+46,59,2021,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+50,35,2021,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+33,65,2021,Chennai Super Kings,Delhi Capitals,"Wankhede Stadium, Mumbai"
+41,46,2021,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai"
+41,61,2020,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium
+65,49,2020,Delhi Capitals,Sunrisers Hyderabad,Sheikh Zayed Stadium
+32,48,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sheikh Zayed Stadium
+63,32,2020,Mumbai Indians,Delhi Capitals,Dubai International Cricket Stadium
+59,35,2020,Royal Challengers Bangalore,Mumbai Indians,Sharjah Cricket Stadium
+53,57,2020,Delhi Capitals,Punjab Kings,Sheikh Zayed Stadium
+40,52,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Dubai International Cricket Stadium
+46,48,2020,Royal Challengers Bangalore,Chennai Super Kings,Sheikh Zayed Stadium
+47,50,2020,Delhi Capitals,Rajasthan Royals,Dubai International Cricket Stadium
+58,45,2020,Sunrisers Hyderabad,Punjab Kings,Sharjah Cricket Stadium
+59,55,2020,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium
+47,43,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Dubai International Cricket Stadium
+36,34,2020,Delhi Capitals,Chennai Super Kings,Sheikh Zayed Stadium
+48,56,2020,Mumbai Indians,Sunrisers Hyderabad,Dubai International Cricket Stadium
+53,66,2020,Punjab Kings,Rajasthan Royals,Sharjah Cricket Stadium
+48,44,2020,Kolkata Knight Riders,Chennai Super Kings,Sheikh Zayed Stadium
+22,38,2020,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium
+53,48,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Dubai International Cricket Stadium
+43,31,2020,Chennai Super Kings,Rajasthan Royals,Sheikh Zayed Stadium
+38,34,2020,Sunrisers Hyderabad,Delhi Capitals,Sharjah Cricket Stadium
+57,56,2020,Royal Challengers Bangalore,Punjab Kings,Dubai International Cricket Stadium
+55,41,2020,Kolkata Knight Riders,Rajasthan Royals,Sheikh Zayed Stadium
+46,44,2020,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium
+44,40,2020,Chennai Super Kings,Sunrisers Hyderabad,Sheikh Zayed Stadium
+60,69,2020,Punjab Kings,Rajasthan Royals,Sheikh Zayed Stadium
+33,51,2020,Kolkata Knight Riders,Mumbai Indians,Dubai International Cricket Stadium
+36,26,2020,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium
+77,54,2020,Sunrisers Hyderabad,Delhi Capitals,Sharjah Cricket Stadium
+25,47,2020,Kolkata Knight Riders,Punjab Kings,Sheikh Zayed Stadium
+52,47,2020,Rajasthan Royals,Royal Challengers Bangalore,Sharjah Cricket Stadium
+24,52,2020,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium
+54,36,2020,Kolkata Knight Riders,Punjab Kings,Dubai International Cricket Stadium
+63,43,2020,Delhi Capitals,Royal Challengers Bangalore,Sharjah Cricket Stadium
+47,58,2020,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium
+43,51,2020,Mumbai Indians,Punjab Kings,Sheikh Zayed Stadium
+42,36,2020,Sunrisers Hyderabad,Chennai Super Kings,Sheikh Zayed Stadium
+57,59,2020,Delhi Capitals,Kolkata Knight Riders,Dubai International Cricket Stadium
+38,50,2020,Rajasthan Royals,Royal Challengers Bangalore,Sharjah Cricket Stadium
+46,60,2020,Punjab Kings,Chennai Super Kings,Dubai International Cricket Stadium
+48,58,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sheikh Zayed Stadium
+57,31,2020,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium
+50,40,2020,Punjab Kings,Royal Challengers Bangalore,Dubai International Cricket Stadium
+39,41,2020,Chennai Super Kings,Delhi Capitals,Dubai International Cricket Stadium
+59,33,2020,Mumbai Indians,Kolkata Knight Riders,Sharjah Cricket Stadium
+26,36,2020,Sunrisers Hyderabad,Rajasthan Royals,Sheikh Zayed Stadium
+53,57,2020,Punjab Kings,Chennai Super Kings,Sharjah Cricket Stadium
+40,53,2020,Royal Challengers Bangalore,Delhi Capitals,Dubai International Cricket Stadium
+42,39,2020,Kolkata Knight Riders,Rajasthan Royals,Sheikh Zayed Stadium
+41,41,2020,Mumbai Indians,Punjab Kings,Dubai International Cricket Stadium
+30,58,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sheikh Zayed Stadium
+52,54,2020,Kolkata Knight Riders,Chennai Super Kings,Dubai International Cricket Stadium
+51,41,2020,Delhi Capitals,Rajasthan Royals,Sharjah Cricket Stadium
+54,45,2020,Royal Challengers Bangalore,Mumbai Indians,Sheikh Zayed Stadium
+47,52,2020,Punjab Kings,Sunrisers Hyderabad,Dubai International Cricket Stadium
+36,36,2020,Kolkata Knight Riders,Delhi Capitals,Dubai International Cricket Stadium
+54,53,2020,Rajasthan Royals,Chennai Super Kings,Sheikh Zayed Stadium
+48,56,2020,Mumbai Indians,Sunrisers Hyderabad,Sharjah Cricket Stadium
+17,44,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Dubai International Cricket Stadium
+23,35,2020,Delhi Capitals,Punjab Kings,Dubai International Cricket Stadium
+51,37,2020,Mumbai Indians,Chennai Super Kings,Sheikh Zayed Stadium
+45,53,2019,Mumbai Indians,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal"
+41,42,2019,Delhi Capitals,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+54,55,2019,Sunrisers Hyderabad,Delhi Capitals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+32,44,2019,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+49,46,2019,Kolkata Knight Riders,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+42,68,2019,Chennai Super Kings,Punjab Kings,"Wankhede Stadium, Mumbai"
+52,49,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium
+30,46,2019,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi"
+41,62,2019,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+44,59,2019,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai"
+27,59,2019,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+62,41,2019,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium
+77,44,2019,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+50,41,2019,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata"
+59,64,2019,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi"
+51,60,2019,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium
+45,40,2019,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+32,55,2019,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata"
+70,68,2019,Royal Challengers Bangalore,Punjab Kings,M Chinnaswamy Stadium
+54,49,2019,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+52,59,2019,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium
+49,32,2019,Royal Challengers Bangalore,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal"
+61,72,2019,Kolkata Knight Riders,Sunrisers Hyderabad,M Chinnaswamy Stadium
+50,60,2019,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi"
+46,60,2019,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium
+42,37,2019,Royal Challengers Bangalore,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+57,48,2019,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi"
+41,68,2019,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+39,54,2019,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+45,67,2019,Royal Challengers Bangalore,Mumbai Indians,"Wankhede Stadium, Mumbai"
+51,40,2019,Delhi Capitals,Sunrisers Hyderabad,"Eden Gardens, Kolkata"
+49,44,2019,Kolkata Knight Riders,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal"
+60,63,2019,Punjab Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+57,59,2019,Mumbai Indians,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+41,57,2019,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata"
+54,24,2019,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium
+50,50,2019,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai"
+29,40,2019,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+27,38,2019,Sunrisers Hyderabad,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+28,65,2019,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium
+40,53,2019,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium
+30,39,2019,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+54,46,2019,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+53,59,2019,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium
+36,62,2019,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi"
+40,34,2019,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+48,55,2019,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadium
+54,49,2019,Punjab Kings,Delhi Capitals,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+29,45,2019,Chennai Super Kings,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+59,30,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai"
+36,45,2019,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi"
+62,38,2019,Mumbai Indians,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+35,69,2019,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+52,60,2019,Mumbai Indians,Royal Challengers Bangalore,M Chinnaswamy Stadium
+53,51,2019,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata"
+43,58,2019,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi"
+32,64,2019,Punjab Kings,Rajasthan Royals,Sawai Mansingh Stadium
+45,46,2019,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai"
+54,47,2019,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+33,16,2019,Royal Challengers Bangalore,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+42,35,2018,Sunrisers Hyderabad,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+45,67,2018,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+46,51,2018,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata"
+47,33,2018,Sunrisers Hyderabad,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+29,33,2018,Punjab Kings,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune"
+46,57,2018,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi"
+60,66,2018,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+45,55,2018,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium
+39,44,2018,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi"
+44,56,2018,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium
+60,57,2018,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai"
+68,51,2018,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+47,66,2018,Punjab Kings,Royal Challengers Bangalore,Holkar Cricket Stadium
+51,51,2018,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+29,53,2018,Sunrisers Hyderabad,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune"
+44,58,2018,Delhi Capitals,Royal Challengers Bangalore,"Arun Jaitley Stadium, Delhi"
+59,58,2018,Kolkata Knight Riders,Punjab Kings,Holkar Cricket Stadium
+55,57,2018,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium
+38,51,2018,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi"
+47,47,2018,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+63,33,2018,Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium
+38,55,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+45,34,2018,Rajasthan Royals,Punjab Kings,Holkar Cricket Stadium
+56,47,2018,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+60,61,2018,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+47,42,2018,Royal Challengers Bangalore,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune"
+49,39,2018,Punjab Kings,Mumbai Indians,Holkar Cricket Stadium
+57,56,2018,Chennai Super Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+62,79,2018,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi"
+43,40,2018,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium
+56,59,2018,Chennai Super Kings,Delhi Capitals,"Maharashtra Cricket Association Stadium, Pune"
+40,51,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium
+39,43,2018,Sunrisers Hyderabad,Rajasthan Royals,M Chinnaswamy Stadium
+51,50,2018,Chennai Super Kings,Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune"
+57,51,2018,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi"
+37,44,2018,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+52,55,2018,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium
+51,22,2018,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai"
+51,48,2018,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi"
+43,43,2018,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium
+27,40,2018,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+28,43,2018,Delhi Capitals,Royal Challengers Bangalore,M Chinnaswamy Stadium
+50,73,2018,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata"
+69,35,2018,Chennai Super Kings,Rajasthan Royals,"Maharashtra Cricket Association Stadium, Pune"
+49,40,2018,Punjab Kings,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+48,53,2018,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium
+60,55,2018,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+50,56,2018,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata"
+75,53,2018,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+52,64,2018,Rajasthan Royals,Royal Challengers Bangalore,M Chinnaswamy Stadium
+49,46,2018,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata"
+84,53,2018,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai"
+50,41,2018,Punjab Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium
+54,56,2018,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+51,60,2018,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium
+64,75,2018,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+48,57,2018,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+52,68,2018,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+45,73,2018,Delhi Capitals,Punjab Kings,"Eden Gardens, Kolkata"
+39,42,2018,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+32,38,2017,Mumbai Indians,Pune Team,"Rajiv Gandhi International Stadium, Uppal"
+25,36,2017,Kolkata Knight Riders,Mumbai Indians,M Chinnaswamy Stadium
+30,48,2017,Sunrisers Hyderabad,Kolkata Knight Riders,M Chinnaswamy Stadium
+33,42,2017,Pune Team,Mumbai Indians,"Wankhede Stadium, Mumbai"
+37,42,2017,Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla
+32,43,2017,Punjab Kings,Pune Team,"Maharashtra Cricket Association Stadium, Pune"
+51,53,2017,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+61,47,2017,Gujarat Titans,Sunrisers Hyderabad,Green Park
+54,53,2017,Delhi Capitals,Pune Team,Feroz Shah Kotla
+71,68,2017,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai"
+50,64,2017,Gujarat Titans,Delhi Capitals,Green Park
+41,61,2017,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+36,43,2017,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+44,58,2017,Punjab Kings,Gujarat Titans,M Chinnaswamy Stadium
+40,105,2017,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+60,35,2017,Mumbai Indians,Delhi Capitals,Feroz Shah Kotla
+35,47,2017,Pune Team,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+35,46,2017,Punjab Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium
+58,63,2017,Gujarat Titans,Delhi Capitals,Feroz Shah Kotla
+41,74,2017,Kolkata Knight Riders,Pune Team,"Eden Gardens, Kolkata"
+66,62,2017,Sunrisers Hyderabad,Delhi Capitals,Feroz Shah Kotla
+55,43,2017,Gujarat Titans,Pune Team,"Maharashtra Cricket Association Stadium, Pune"
+52,55,2017,Royal Challengers Bangalore,Mumbai Indians,"Wankhede Stadium, Mumbai"
+79,44,2017,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+25,50,2017,Delhi Capitals,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+48,61,2017,Gujarat Titans,Mumbai Indians,Saurashtra Cricket Association Stadium
+43,39,2017,Pune Team,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune"
+60,59,2017,Sunrisers Hyderabad,Punjab Kings,"Eden Gardens, Kolkata"
+53,47,2017,Delhi Capitals,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+35,49,2017,Royal Challengers Bangalore,Gujarat Titans,M Chinnaswamy Stadium
+57,45,2017,Pune Team,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune"
+48,44,2017,Pune Team,Mumbai Indians,"Wankhede Stadium, Mumbai"
+65,39,2017,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+50,50,2017,Punjab Kings,Gujarat Titans,Saurashtra Cricket Association Stadium
+45,55,2017,Sunrisers Hyderabad,Pune Team,"Maharashtra Cricket Association Stadium, Pune"
+48,23,2017,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai"
+65,72,2017,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata"
+46,82,2017,Punjab Kings,Mumbai Indians,Holkar Cricket Stadium
+39,56,2017,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal"
+45,57,2017,Royal Challengers Bangalore,Gujarat Titans,Saurashtra Cricket Association Stadium
+29,51,2017,Sunrisers Hyderabad,Punjab Kings,Feroz Shah Kotla
+53,49,2017,Delhi Capitals,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+55,42,2017,Pune Team,Royal Challengers Bangalore,M Chinnaswamy Stadium
+46,56,2017,Gujarat Titans,Mumbai Indians,"Wankhede Stadium, Mumbai"
+49,40,2017,Delhi Capitals,Punjab Kings,Feroz Shah Kotla
+40,45,2017,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata"
+64,61,2017,Pune Team,Gujarat Titans,Saurashtra Cricket Association Stadium
+41,21,2017,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium
+57,76,2017,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+34,61,2017,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai"
+62,50,2017,Delhi Capitals,Pune Team,"Maharashtra Cricket Association Stadium, Pune"
+23,62,2017,Royal Challengers Bangalore,Punjab Kings,Holkar Cricket Stadium
+59,49,2017,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai"
+40,59,2017,Gujarat Titans,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+41,43,2017,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium
+35,56,2017,Pune Team,Punjab Kings,Holkar Cricket Stadium
+52,73,2017,Gujarat Titans,Kolkata Knight Riders,Saurashtra Cricket Association Stadium
+61,59,2017,Mumbai Indians,Pune Team,"Maharashtra Cricket Association Stadium, Pune"
+59,54,2017,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+59,59,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium
+38,46,2016,Gujarat Titans,Sunrisers Hyderabad,Feroz Shah Kotla
+43,46,2016,Sunrisers Hyderabad,Kolkata Knight Riders,Feroz Shah Kotla
+23,31,2016,Gujarat Titans,Royal Challengers Bangalore,M Chinnaswamy Stadium
+43,49,2016,Delhi Capitals,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium
+48,48,2016,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata"
+49,70,2016,Mumbai Indians,Gujarat Titans,Green Park
+52,44,2016,Punjab Kings,Pune Team,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+46,37,2016,Sunrisers Hyderabad,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium
+44,55,2016,Kolkata Knight Riders,Gujarat Titans,Green Park
+63,59,2016,Royal Challengers Bangalore,Punjab Kings,M Chinnaswamy Stadium
+28,44,2016,Delhi Capitals,Pune Team,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+51,63,2016,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+45,49,2016,Mumbai Indians,Delhi Capitals,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+47,55,2016,Punjab Kings,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+37,66,2016,Pune Team,Kolkata Knight Riders,M Chinnaswamy Stadium
+42,41,2016,Royal Challengers Bangalore,Gujarat Titans,"Eden Gardens, Kolkata"
+21,32,2016,Mumbai Indians,Punjab Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+51,50,2016,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal"
+25,39,2016,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium
+34,25,2016,Sunrisers Hyderabad,Pune Team,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+56,50,2016,Royal Challengers Bangalore,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+28,46,2016,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata"
+51,32,2016,Sunrisers Hyderabad,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+45,51,2016,Punjab Kings,Delhi Capitals,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+60,46,2016,Pune Team,Royal Challengers Bangalore,M Chinnaswamy Stadium
+26,38,2016,Gujarat Titans,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+48,50,2016,Delhi Capitals,Pune Team,Feroz Shah Kotla
+40,37,2016,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata"
+35,61,2016,Gujarat Titans,Delhi Capitals,Saurashtra Cricket Association Stadium
+40,37,2016,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium
+54,47,2016,Pune Team,Mumbai Indians,Saurashtra Cricket Association Stadium
+59,36,2016,Punjab Kings,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune"
+49,45,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Feroz Shah Kotla
+37,43,2016,Delhi Capitals,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+48,72,2016,Pune Team,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune"
+59,64,2016,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai"
+71,22,2016,Gujarat Titans,Delhi Capitals,Feroz Shah Kotla
+27,46,2016,Sunrisers Hyderabad,Pune Team,"Rajiv Gandhi International Stadium, Uppal"
+39,40,2016,Mumbai Indians,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+31,59,2016,Pune Team,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune"
+50,72,2016,Royal Challengers Bangalore,Gujarat Titans,Saurashtra Cricket Association Stadium
+35,65,2016,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+41,52,2016,Delhi Capitals,Mumbai Indians,Feroz Shah Kotla
+48,36,2016,Royal Challengers Bangalore,Pune Team,"Maharashtra Cricket Association Stadium, Pune"
+50,63,2016,Gujarat Titans,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium
+49,51,2016,Royal Challengers Bangalore,Mumbai Indians,"Wankhede Stadium, Mumbai"
+41,65,2016,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+40,33,2016,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+63,51,2016,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium
+49,50,2016,Pune Team,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+31,42,2016,Mumbai Indians,Gujarat Titans,"Wankhede Stadium, Mumbai"
+36,36,2016,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+37,28,2016,Punjab Kings,Delhi Capitals,Feroz Shah Kotla
+57,62,2016,Pune Team,Gujarat Titans,Saurashtra Cricket Association Stadium
+40,53,2016,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata"
+49,56,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium
+52,57,2016,Punjab Kings,Gujarat Titans,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+35,47,2016,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+37,57,2016,Mumbai Indians,Pune Team,"Wankhede Stadium, Mumbai"
+61,31,2015,Mumbai Indians,Chennai Super Kings,"Eden Gardens, Kolkata"
+29,34,2015,Royal Challengers Bangalore,Chennai Super Kings,JSCA International Stadium Complex
+41,40,2015,Royal Challengers Bangalore,Rajasthan Royals,"Maharashtra Cricket Association Stadium, Pune"
+48,54,2015,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+29,38,2015,Sunrisers Hyderabad,Mumbai Indians,M Chinnaswamy Stadium
+54,2,2015,Delhi Capitals,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+66,53,2015,Rajasthan Royals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai"
+41,47,2015,Punjab Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali"
+68,83,2015,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+46,50,2015,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+72,61,2015,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+16,28,2015,Chennai Super Kings,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium
+56,47,2015,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+36,40,2015,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai"
+39,45,2015,Royal Challengers Bangalore,Mumbai Indians,"Wankhede Stadium, Mumbai"
+41,49,2015,Sunrisers Hyderabad,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium
+45,57,2015,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+44,61,2015,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+56,36,2015,Sunrisers Hyderabad,Rajasthan Royals,"Brabourne Stadium, Mumbai"
+68,34,2015,Royal Challengers Bangalore,Punjab Kings,"Eden Gardens, Kolkata"
+44,41,2015,Delhi Capitals,Mumbai Indians,M Chinnaswamy Stadium
+55,33,2015,Kolkata Knight Riders,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai"
+37,42,2015,Chennai Super Kings,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+43,55,2015,Rajasthan Royals,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+51,45,2015,Mumbai Indians,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+76,54,2015,Sunrisers Hyderabad,Chennai Super Kings,"Brabourne Stadium, Mumbai"
+61,62,2015,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium
+47,55,2015,Mumbai Indians,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+27,41,2015,Punjab Kings,Delhi Capitals,"Wankhede Stadium, Mumbai"
+53,54,2015,Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla
+50,36,2015,Kolkata Knight Riders,Delhi Capitals,M Chinnaswamy Stadium
+56,36,2015,Sunrisers Hyderabad,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+38,50,2015,Delhi Capitals,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+54,39,2015,Chennai Super Kings,Punjab Kings,Feroz Shah Kotla
+46,52,2015,Mumbai Indians,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+48,49,2015,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+45,48,2015,Delhi Capitals,Mumbai Indians,"Sardar Patel Stadium, Motera"
+45,38,2015,Chennai Super Kings,Royal Challengers Bangalore,Feroz Shah Kotla
+43,49,2015,Sunrisers Hyderabad,Kolkata Knight Riders,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+43,40,2015,Rajasthan Royals,Punjab Kings,M Chinnaswamy Stadium
+34,48,2015,Delhi Capitals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera"
+48,33,2015,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla
+39,47,2015,Chennai Super Kings,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+48,53,2015,Punjab Kings,Kolkata Knight Riders,M Chinnaswamy Stadium
+40,50,2015,Delhi Capitals,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+31,90,2015,Mumbai Indians,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune"
+35,36,2015,Sunrisers Hyderabad,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+41,47,2015,Punjab Kings,Delhi Capitals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+69,38,2015,Chennai Super Kings,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune"
+31,42,2015,Mumbai Indians,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+47,65,2015,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium
+57,17,2015,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai"
+51,42,2015,Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla
+53,41,2015,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+49,46,2015,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+35,51,2015,Rajasthan Royals,Punjab Kings,"Maharashtra Cricket Association Stadium, Pune"
+59,40,2015,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+37,38,2015,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+32,59,2014,Punjab Kings,Kolkata Knight Riders,M Chinnaswamy Stadium
+70,100,2014,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+53,60,2014,Mumbai Indians,Chennai Super Kings,"Brabourne Stadium, Mumbai"
+55,46,2014,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata"
+35,71,2014,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai"
+44,48,2014,Delhi Capitals,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+49,49,2014,Sunrisers Hyderabad,Kolkata Knight Riders,M Chinnaswamy Stadium
+34,64,2014,Royal Challengers Bangalore,Chennai Super Kings,"Eden Gardens, Kolkata"
+53,44,2014,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+65,47,2014,Mumbai Indians,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali"
+60,64,2014,Chennai Super Kings,Sunrisers Hyderabad,"Eden Gardens, Kolkata"
+45,36,2014,Kolkata Knight Riders,Royal Challengers Bangalore,JSCA International Stadium Complex
+48,62,2014,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+35,52,2014,Chennai Super Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+25,51,2014,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+55,66,2014,Delhi Capitals,Punjab Kings,Feroz Shah Kotla
+42,47,2014,Mumbai Indians,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+41,30,2014,Sunrisers Hyderabad,Kolkata Knight Riders,JSCA International Stadium Complex
+39,17,2014,Chennai Super Kings,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+52,34,2014,Rajasthan Royals,Delhi Capitals,"Sardar Patel Stadium, Motera"
+37,45,2014,Mumbai Indians,Kolkata Knight Riders,Barabati Stadium
+55,86,2014,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+34,46,2014,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium
+42,48,2014,Rajasthan Royals,Chennai Super Kings,JSCA International Stadium Complex
+43,38,2014,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal"
+31,45,2014,Royal Challengers Bangalore,Rajasthan Royals,Barabati Stadium
+49,55,2014,Punjab Kings,Kolkata Knight Riders,M Chinnaswamy Stadium
+42,38,2014,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+52,44,2014,Delhi Capitals,Sunrisers Hyderabad,Feroz Shah Kotla
+64,34,2014,Punjab Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium
+50,37,2014,Sunrisers Hyderabad,Rajasthan Royals,"Sardar Patel Stadium, Motera"
+38,46,2014,Punjab Kings,Chennai Super Kings,Feroz Shah Kotla
+29,52,2014,Delhi Capitals,Kolkata Knight Riders,Barabati Stadium
+50,64,2014,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+46,49,2014,Delhi Capitals,Chennai Super Kings,Feroz Shah Kotla
+50,50,2014,Rajasthan Royals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera"
+47,36,2014,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium
+46,38,2014,Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla
+36,49,2014,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai"
+43,39,2014,Chennai Super Kings,Kolkata Knight Riders,JSCA International Stadium Complex
+44,32,2014,Sunrisers Hyderabad,Mumbai Indians,Dubai International Cricket Stadium
+45,33,2014,Rajasthan Royals,Kolkata Knight Riders,Sheikh Zayed Stadium
+44,33,2014,Royal Challengers Bangalore,Punjab Kings,Dubai International Cricket Stadium
+37,47,2014,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium
+37,31,2014,Mumbai Indians,Delhi Capitals,Sharjah Cricket Stadium
+51,24,2014,Punjab Kings,Kolkata Knight Riders,Sheikh Zayed Stadium
+22,36,2014,Royal Challengers Bangalore,Rajasthan Royals,Sheikh Zayed Stadium
+31,51,2014,Mumbai Indians,Chennai Super Kings,Dubai International Cricket Stadium
+55,44,2014,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium
+42,49,2014,Kolkata Knight Riders,Royal Challengers Bangalore,Sharjah Cricket Stadium
+51,38,2014,Chennai Super Kings,Rajasthan Royals,Dubai International Cricket Stadium
+43,45,2014,Punjab Kings,Sunrisers Hyderabad,Sharjah Cricket Stadium
+34,24,2014,Chennai Super Kings,Delhi Capitals,Sheikh Zayed Stadium
+54,39,2014,Rajasthan Royals,Punjab Kings,Sharjah Cricket Stadium
+31,49,2014,Kolkata Knight Riders,Delhi Capitals,Dubai International Cricket Stadium
+49,30,2014,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium
+41,30,2014,Sunrisers Hyderabad,Rajasthan Royals,Sheikh Zayed Stadium
+70,64,2014,Chennai Super Kings,Punjab Kings,Sheikh Zayed Stadium
+30,50,2014,Delhi Capitals,Royal Challengers Bangalore,Sharjah Cricket Stadium
+31,32,2014,Kolkata Knight Riders,Mumbai Indians,Sheikh Zayed Stadium
+34,35,2013,Mumbai Indians,Chennai Super Kings,"Eden Gardens, Kolkata"
+42,45,2013,Rajasthan Royals,Mumbai Indians,"Eden Gardens, Kolkata"
+27,44,2013,Sunrisers Hyderabad,Rajasthan Royals,Feroz Shah Kotla
+47,56,2013,Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla
+33,45,2013,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+76,56,2013,Royal Challengers Bangalore,Chennai Super Kings,Subrata Roy Sahara Stadium
+40,47,2013,Pune Team,Delhi Capitals,M Chinnaswamy Stadium
+35,51,2013,Punjab Kings,Mumbai Indians,Himachal Pradesh Cricket Association Stadium
+21,33,2013,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+58,41,2013,Royal Challengers Bangalore,Punjab Kings,Himachal Pradesh Cricket Association Stadium
+49,29,2013,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+47,49,2013,Chennai Super Kings,Delhi Capitals,JSCA International Stadium Complex
+42,33,2013,Pune Team,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+52,39,2013,Sunrisers Hyderabad,Mumbai Indians,M Chinnaswamy Stadium
+40,56,2013,Delhi Capitals,Punjab Kings,"Wankhede Stadium, Mumbai"
+37,24,2013,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium
+22,31,2013,Royal Challengers Bangalore,Kolkata Knight Riders,JSCA International Stadium Complex
+37,41,2013,Sunrisers Hyderabad,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+36,37,2013,Pune Team,Mumbai Indians,Subrata Roy Sahara Stadium
+40,49,2013,Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla
+50,34,2013,Kolkata Knight Riders,Pune Team,Subrata Roy Sahara Stadium
+37,38,2013,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali"
+50,49,2013,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+41,38,2013,Mumbai Indians,Kolkata Knight Riders,Sawai Mansingh Stadium
+42,49,2013,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+40,47,2013,Sunrisers Hyderabad,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+61,53,2013,Pune Team,Rajasthan Royals,Sawai Mansingh Stadium
+32,32,2013,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+31,46,2013,Royal Challengers Bangalore,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+26,41,2013,Delhi Capitals,Sunrisers Hyderabad,"Eden Gardens, Kolkata"
+34,48,2013,Rajasthan Royals,Kolkata Knight Riders,Subrata Roy Sahara Stadium
+30,39,2013,Royal Challengers Bangalore,Pune Team,"MA Chidambaram Stadium, Chepauk, Chennai"
+36,36,2013,Chennai Super Kings,Punjab Kings,Shaheed Veer Narayan Singh International Stadium
+37,34,2013,Kolkata Knight Riders,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal"
+41,36,2013,Mumbai Indians,Sunrisers Hyderabad,Subrata Roy Sahara Stadium
+29,46,2013,Chennai Super Kings,Pune Team,"Wankhede Stadium, Mumbai"
+36,55,2013,Mumbai Indians,Punjab Kings,Sawai Mansingh Stadium
+55,45,2013,Royal Challengers Bangalore,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai"
+37,43,2013,Delhi Capitals,Pune Team,Shaheed Veer Narayan Singh International Stadium
+67,63,2013,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+52,35,2013,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium
+29,30,2013,Sunrisers Hyderabad,Rajasthan Royals,"Eden Gardens, Kolkata"
+45,45,2013,Punjab Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+40,58,2013,Sunrisers Hyderabad,Chennai Super Kings,"Eden Gardens, Kolkata"
+61,42,2013,Kolkata Knight Riders,Mumbai Indians,Feroz Shah Kotla
+53,21,2013,Punjab Kings,Delhi Capitals,M Chinnaswamy Stadium
+62,43,2013,Royal Challengers Bangalore,Pune Team,"MA Chidambaram Stadium, Chepauk, Chennai"
+55,58,2013,Rajasthan Royals,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali"
+48,55,2013,Pune Team,Punjab Kings,Feroz Shah Kotla
+24,60,2013,Mumbai Indians,Delhi Capitals,M Chinnaswamy Stadium
+31,48,2013,Rajasthan Royals,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+47,27,2013,Kolkata Knight Riders,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal"
+36,33,2013,Punjab Kings,Sunrisers Hyderabad,Feroz Shah Kotla
+39,32,2013,Chennai Super Kings,Delhi Capitals,Sawai Mansingh Stadium
+58,26,2013,Rajasthan Royals,Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune"
+25,41,2013,Sunrisers Hyderabad,Pune Team,"Punjab Cricket Association Stadium, Mohali"
+43,48,2013,Delhi Capitals,Royal Challengers Bangalore,M Chinnaswamy Stadium
+35,45,2013,Punjab Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+48,38,2013,Pune Team,Chennai Super Kings,Sawai Mansingh Stadium
+34,48,2013,Punjab Kings,Rajasthan Royals,"Eden Gardens, Kolkata"
+48,39,2013,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai"
+33,31,2013,Royal Challengers Bangalore,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+48,40,2013,Mumbai Indians,Pune Team,Feroz Shah Kotla
+29,38,2013,Delhi Capitals,Sunrisers Hyderabad,Subrata Roy Sahara Stadium
+44,64,2013,Rajasthan Royals,Pune Team,M Chinnaswamy Stadium
+44,43,2013,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+43,38,2013,Punjab Kings,Chennai Super Kings,M Chinnaswamy Stadium
+38,46,2013,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai"
+35,40,2013,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium
+40,37,2013,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal"
+24,56,2013,Pune Team,Punjab Kings,Subrata Roy Sahara Stadium
+41,36,2013,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+45,39,2013,Rajasthan Royals,Delhi Capitals,Feroz Shah Kotla
+38,27,2013,Sunrisers Hyderabad,Pune Team,"Rajiv Gandhi International Stadium, Uppal"
+31,38,2013,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium
+45,46,2013,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+54,56,2012,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+52,46,2012,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+30,54,2012,Chennai Super Kings,Mumbai Indians,M Chinnaswamy Stadium
+48,49,2012,Kolkata Knight Riders,Delhi Capitals,Subrata Roy Sahara Stadium
+31,44,2012,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium
+23,40,2012,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+27,40,2012,Kolkata Knight Riders,Pune Team,Subrata Roy Sahara Stadium
+20,44,2012,Punjab Kings,Delhi Capitals,Himachal Pradesh Cricket Association Stadium
+41,58,2012,Rajasthan Royals,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal"
+42,51,2012,Royal Challengers Bangalore,Delhi Capitals,Himachal Pradesh Cricket Association Stadium
+25,43,2012,Chennai Super Kings,Punjab Kings,Feroz Shah Kotla
+32,26,2012,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai"
+47,37,2012,Punjab Kings,Delhi Capitals,Feroz Shah Kotla
+50,51,2012,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata"
+40,32,2012,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium
+47,44,2012,Deccan Chargers,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+45,33,2012,Rajasthan Royals,Pune Team,Sawai Mansingh Stadium
+27,45,2012,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+49,32,2012,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+66,50,2012,Royal Challengers Bangalore,Pune Team,Subrata Roy Sahara Stadium
+28,36,2012,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium
+25,35,2012,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+51,40,2012,Punjab Kings,Deccan Chargers,"Wankhede Stadium, Mumbai"
+35,49,2012,Pune Team,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+50,60,2012,Delhi Capitals,Kolkata Knight Riders,Subrata Roy Sahara Stadium
+46,46,2012,Deccan Chargers,Royal Challengers Bangalore,Feroz Shah Kotla
+52,46,2012,Chennai Super Kings,Mumbai Indians,M Chinnaswamy Stadium
+64,33,2012,Rajasthan Royals,Punjab Kings,"Wankhede Stadium, Mumbai"
+68,45,2012,Kolkata Knight Riders,Pune Team,"Punjab Cricket Association Stadium, Mohali"
+56,47,2012,Chennai Super Kings,Deccan Chargers,"Eden Gardens, Kolkata"
+42,37,2012,Mumbai Indians,Pune Team,"MA Chidambaram Stadium, Chepauk, Chennai"
+33,53,2012,Royal Challengers Bangalore,Punjab Kings,Subrata Roy Sahara Stadium
+56,61,2012,Rajasthan Royals,Delhi Capitals,M Chinnaswamy Stadium
+33,48,2012,Deccan Chargers,Pune Team,Sawai Mansingh Stadium
+43,37,2012,Chennai Super Kings,Kolkata Knight Riders,Barabati Stadium
+38,31,2012,Deccan Chargers,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+42,40,2012,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+46,35,2012,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla
+43,48,2012,Punjab Kings,Chennai Super Kings,"Eden Gardens, Kolkata"
+54,49,2012,Delhi Capitals,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+50,44,2012,Deccan Chargers,Pune Team,Feroz Shah Kotla
+44,40,2012,Punjab Kings,Mumbai Indians,Subrata Roy Sahara Stadium
+28,61,2012,Pune Team,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali"
+37,48,2012,Royal Challengers Bangalore,Rajasthan Royals,Subrata Roy Sahara Stadium
+39,42,2012,Deccan Chargers,Kolkata Knight Riders,Sawai Mansingh Stadium
+39,48,2012,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai"
+52,49,2012,Pune Team,Delhi Capitals,Barabati Stadium
+41,45,2012,Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla
+41,36,2012,Punjab Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai"
+42,53,2012,Chennai Super Kings,Pune Team,"Punjab Cricket Association Stadium, Mohali"
+33,64,2012,Deccan Chargers,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+45,53,2012,Punjab Kings,Kolkata Knight Riders,Feroz Shah Kotla
+58,42,2012,Pune Team,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+57,62,2012,Deccan Chargers,Rajasthan Royals,M Chinnaswamy Stadium
+23,41,2012,Mumbai Indians,Delhi Capitals,Sawai Mansingh Stadium
+43,54,2012,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+26,48,2012,Punjab Kings,Kolkata Knight Riders,M Chinnaswamy Stadium
+43,56,2012,Chennai Super Kings,Pune Team,"Eden Gardens, Kolkata"
+50,34,2012,Deccan Chargers,Delhi Capitals,Subrata Roy Sahara Stadium
+45,36,2012,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+29,38,2012,Pune Team,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+56,52,2012,Royal Challengers Bangalore,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+54,44,2012,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+41,50,2012,Chennai Super Kings,Delhi Capitals,Feroz Shah Kotla
+60,20,2012,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium
+45,29,2012,Deccan Chargers,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+38,19,2012,Pune Team,Punjab Kings,Subrata Roy Sahara Stadium
+37,27,2012,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium
+44,45,2012,Chennai Super Kings,Deccan Chargers,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+46,46,2012,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium
+57,45,2012,Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium
+30,27,2012,Pune Team,Mumbai Indians,"Wankhede Stadium, Mumbai"
+46,48,2012,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata"
+42,53,2012,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+56,47,2011,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai"
+68,52,2011,Royal Challengers Bangalore,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+25,62,2011,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai"
+44,25,2011,Royal Challengers Bangalore,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+46,54,2011,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata"
+23,44,2011,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium
+58,45,2011,Deccan Chargers,Punjab Kings,Himachal Pradesh Cricket Association Stadium
+26,52,2011,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+29,44,2011,Pune Team,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai"
+41,40,2011,Chennai Super Kings,Kochi Tuskers Kerala,"MA Chidambaram Stadium, Chepauk, Chennai"
+30,34,2011,Punjab Kings,Royal Challengers Bangalore,Himachal Pradesh Cricket Association Stadium
+39,57,2011,Pune Team,Deccan Chargers,"Dr DY Patil Sports Academy, Mumbai"
+32,87,2011,Rajasthan Royals,Kochi Tuskers Kerala,Holkar Cricket Stadium
+43,42,2011,Punjab Kings,Delhi Capitals,Himachal Pradesh Cricket Association Stadium
+32,26,2011,Deccan Chargers,Mumbai Indians,M Chinnaswamy Stadium
+33,65,2011,Kolkata Knight Riders,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+62,49,2011,Kochi Tuskers Kerala,Punjab Kings,Holkar Cricket Stadium
+42,52,2011,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+43,66,2011,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium
+39,33,2011,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+50,52,2011,Deccan Chargers,Pune Team,"Rajiv Gandhi International Stadium, Uppal"
+55,48,2011,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium
+34,40,2011,Punjab Kings,Pune Team,"Punjab Cricket Association Stadium, Mohali"
+49,79,2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,M Chinnaswamy Stadium
+50,23,2011,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai"
+15,33,2011,Chennai Super Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+48,38,2011,Royal Challengers Bangalore,Punjab Kings,M Chinnaswamy Stadium
+43,29,2011,Deccan Chargers,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal"
+35,43,2011,Kochi Tuskers Kerala,Kolkata Knight Riders,Nehru Stadium
+49,31,2011,Mumbai Indians,Pune Team,"Dr DY Patil Sports Academy, Mumbai"
+47,43,2011,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+41,41,2011,Kolkata Knight Riders,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal"
+42,67,2011,Delhi Capitals,Kochi Tuskers Kerala,Feroz Shah Kotla
+35,24,2011,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai"
+34,64,2011,Chennai Super Kings,Deccan Chargers,Sawai Mansingh Stadium
+49,34,2011,Pune Team,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai"
+40,45,2011,Punjab Kings,Kolkata Knight Riders,Nehru Stadium
+34,37,2011,Delhi Capitals,Kochi Tuskers Kerala,"Eden Gardens, Kolkata"
+57,42,2011,Royal Challengers Bangalore,Pune Team,M Chinnaswamy Stadium
+31,18,2011,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium
+42,41,2011,Kolkata Knight Riders,Delhi Capitals,Feroz Shah Kotla
+20,29,2011,Deccan Chargers,Kochi Tuskers Kerala,"Dr DY Patil Sports Academy, Mumbai"
+37,28,2011,Pune Team,Chennai Super Kings,Nehru Stadium
+42,65,2011,Delhi Capitals,Royal Challengers Bangalore,Feroz Shah Kotla
+45,40,2011,Chennai Super Kings,Pune Team,"MA Chidambaram Stadium, Chepauk, Chennai"
+32,38,2011,Kochi Tuskers Kerala,Rajasthan Royals,Sawai Mansingh Stadium
+57,41,2011,Mumbai Indians,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal"
+70,46,2011,Delhi Capitals,Punjab Kings,Feroz Shah Kotla
+50,57,2011,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+40,44,2011,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+77,45,2011,Punjab Kings,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali"
+45,37,2011,Kochi Tuskers Kerala,Kolkata Knight Riders,"Wankhede Stadium, Mumbai"
+33,32,2011,Pune Team,Mumbai Indians,"Eden Gardens, Kolkata"
+43,38,2011,Deccan Chargers,Delhi Capitals,Feroz Shah Kotla
+42,49,2011,Chennai Super Kings,Kochi Tuskers Kerala,Nehru Stadium
+36,26,2011,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+63,67,2011,Pune Team,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai"
+48,62,2011,Deccan Chargers,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+45,33,2011,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai"
+44,50,2011,Mumbai Indians,Kochi Tuskers Kerala,"Wankhede Stadium, Mumbai"
+31,62,2011,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium
+41,28,2011,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal"
+37,44,2011,Kochi Tuskers Kerala,Pune Team,"Dr DY Patil Sports Academy, Mumbai"
+31,65,2011,Chennai Super Kings,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+24,40,2011,Royal Challengers Bangalore,Mumbai Indians,Sawai Mansingh Stadium
+30,57,2011,Delhi Capitals,Rajasthan Royals,M Chinnaswamy Stadium
+46,30,2011,Kolkata Knight Riders,Deccan Chargers,"Eden Gardens, Kolkata"
+36,44,2011,Punjab Kings,Pune Team,"Dr DY Patil Sports Academy, Mumbai"
+38,31,2011,Delhi Capitals,Mumbai Indians,Feroz Shah Kotla
+61,48,2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Nehru Stadium
+44,31,2011,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+45,52,2011,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+40,33,2010,Chennai Super Kings,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai"
+27,33,2010,Deccan Chargers,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai"
+39,23,2010,Chennai Super Kings,Deccan Chargers,"Dr DY Patil Sports Academy, Mumbai"
+54,44,2010,Mumbai Indians,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai"
+42,44,2010,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+38,39,2010,Deccan Chargers,Delhi Capitals,Feroz Shah Kotla
+49,49,2010,Punjab Kings,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium
+46,42,2010,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+34,34,2010,Mumbai Indians,Royal Challengers Bangalore,M Chinnaswamy Stadium
+43,45,2010,Punjab Kings,Deccan Chargers,Himachal Pradesh Cricket Association Stadium
+39,33,2010,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+30,59,2010,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium
+22,67,2010,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+44,69,2010,Mumbai Indians,Delhi Capitals,"Brabourne Stadium, Mumbai"
+35,38,2010,Deccan Chargers,Royal Challengers Bangalore,"Vidarbha Cricket Association Stadium, Jamtha"
+47,34,2010,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium
+45,39,2010,Delhi Capitals,Punjab Kings,Feroz Shah Kotla
+61,48,2010,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium
+55,37,2010,Chennai Super Kings,Deccan Chargers,"Vidarbha Cricket Association Stadium, Jamtha"
+51,56,2010,Mumbai Indians,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+46,32,2010,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium
+50,44,2010,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata"
+52,70,2010,Punjab Kings,Rajasthan Royals,Sawai Mansingh Stadium
+42,46,2010,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+48,52,2010,Rajasthan Royals,Deccan Chargers,"Vidarbha Cricket Association Stadium, Jamtha"
+54,38,2010,Delhi Capitals,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+53,69,2010,Kolkata Knight Riders,Punjab Kings,Feroz Shah Kotla
+53,40,2010,Mumbai Indians,Deccan Chargers,"Brabourne Stadium, Mumbai"
+66,62,2010,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai"
+41,51,2010,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+46,59,2010,Kolkata Knight Riders,Deccan Chargers,"Eden Gardens, Kolkata"
+52,39,2010,Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla
+52,56,2010,Royal Challengers Bangalore,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+48,45,2010,Punjab Kings,Mumbai Indians,"Brabourne Stadium, Mumbai"
+62,36,2010,Delhi Capitals,Kolkata Knight Riders,Feroz Shah Kotla
+52,50,2010,Mumbai Indians,Deccan Chargers,"Dr DY Patil Sports Academy, Mumbai"
+58,58,2010,Rajasthan Royals,Chennai Super Kings,"Sardar Patel Stadium, Motera"
+64,46,2010,Delhi Capitals,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+50,42,2010,Kolkata Knight Riders,Punjab Kings,"Sardar Patel Stadium, Motera"
+55,54,2010,Deccan Chargers,Rajasthan Royals,"Brabourne Stadium, Mumbai"
+51,63,2010,Chennai Super Kings,Mumbai Indians,M Chinnaswamy Stadium
+53,76,2010,Rajasthan Royals,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+38,29,2010,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium
+41,57,2010,Kolkata Knight Riders,Mumbai Indians,"Brabourne Stadium, Mumbai"
+38,42,2010,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+47,48,2010,Deccan Chargers,Delhi Capitals,Barabati Stadium
+45,55,2010,Mumbai Indians,Royal Challengers Bangalore,"Brabourne Stadium, Mumbai"
+56,38,2010,Rajasthan Royals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera"
+56,27,2010,Deccan Chargers,Punjab Kings,Feroz Shah Kotla
+52,56,2010,Delhi Capitals,Chennai Super Kings,Barabati Stadium
+31,59,2010,Rajasthan Royals,Royal Challengers Bangalore,M Chinnaswamy Stadium
+67,56,2010,Mumbai Indians,Delhi Capitals,Feroz Shah Kotla
+31,45,2010,Chennai Super Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+50,61,2010,Punjab Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium
+47,60,2010,Rajasthan Royals,Delhi Capitals,"Sardar Patel Stadium, Motera"
+57,34,2010,Deccan Chargers,Chennai Super Kings,"Eden Gardens, Kolkata"
+24,61,2010,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai"
+44,39,2010,Punjab Kings,Delhi Capitals,"Punjab Cricket Association Stadium, Mohali"
+69,39,2010,Mumbai Indians,Rajasthan Royals,"Brabourne Stadium, Mumbai"
+38,62,2010,Kolkata Knight Riders,Deccan Chargers,"Dr DY Patil Sports Academy, Mumbai"
+31,36,2009,Deccan Chargers,Royal Challengers Bangalore,New Wanderers Stadium
+52,59,2009,Chennai Super Kings,Royal Challengers Bangalore,New Wanderers Stadium
+49,84,2009,Delhi Capitals,Deccan Chargers,SuperSport Park
+33,64,2009,Royal Challengers Bangalore,Deccan Chargers,SuperSport Park
+30,60,2009,Mumbai Indians,Delhi Capitals,SuperSport Park
+50,29,2009,Chennai Super Kings,Punjab Kings,Kingsmead
+46,29,2009,Rajasthan Royals,Kolkata Knight Riders,Kingsmead
+37,27,2009,Delhi Capitals,Royal Challengers Bangalore,New Wanderers Stadium
+54,56,2009,Chennai Super Kings,Kolkata Knight Riders,SuperSport Park
+35,24,2009,Delhi Capitals,Rajasthan Royals,OUTsurance Oval
+39,46,2009,Punjab Kings,Deccan Chargers,New Wanderers Stadium
+31,50,2009,Kolkata Knight Riders,Deccan Chargers,St George's Park
+49,35,2009,Mumbai Indians,Chennai Super Kings,New Wanderers Stadium
+38,37,2009,Delhi Capitals,Punjab Kings,OUTsurance Oval
+42,26,2009,Rajasthan Royals,Mumbai Indians,Kingsmead
+52,33,2009,Chennai Super Kings,Royal Challengers Bangalore,Kingsmead
+56,50,2009,Delhi Capitals,Deccan Chargers,Kingsmead
+51,42,2009,Punjab Kings,Mumbai Indians,SuperSport Park
+38,46,2009,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park
+42,30,2009,Deccan Chargers,Rajasthan Royals,De Beers Diamond Oval
+37,47,2009,Kolkata Knight Riders,Delhi Capitals,New Wanderers Stadium
+46,39,2009,Mumbai Indians,Royal Challengers Bangalore,St George's Park
+34,37,2009,Rajasthan Royals,Chennai Super Kings,De Beers Diamond Oval
+52,45,2009,Deccan Chargers,Punjab Kings,De Beers Diamond Oval
+30,36,2009,Mumbai Indians,Delhi Capitals,Buffalo Park
+57,53,2009,Chennai Super Kings,Punjab Kings,SuperSport Park
+29,31,2009,Royal Challengers Bangalore,Rajasthan Royals,SuperSport Park
+37,41,2009,Deccan Chargers,Mumbai Indians,SuperSport Park
+54,57,2009,Kolkata Knight Riders,Delhi Capitals,Kingsmead
+57,29,2009,Rajasthan Royals,Punjab Kings,Kingsmead
+53,52,2009,Chennai Super Kings,Deccan Chargers,Buffalo Park
+25,51,2009,Mumbai Indians,Royal Challengers Bangalore,New Wanderers Stadium
+28,51,2009,Kolkata Knight Riders,Punjab Kings,St George's Park
+53,49,2009,Chennai Super Kings,Delhi Capitals,St George's Park
+39,30,2009,Deccan Chargers,Rajasthan Royals,New Wanderers Stadium
+38,35,2009,Royal Challengers Bangalore,Punjab Kings,Buffalo Park
+40,26,2009,Mumbai Indians,Kolkata Knight Riders,Kingsmead
+40,38,2009,Chennai Super Kings,Rajasthan Royals,SuperSport Park
+37,41,2009,Deccan Chargers,Delhi Capitals,SuperSport Park
+26,23,2009,Punjab Kings,Mumbai Indians,Kingsmead
+45,46,2009,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead
+42,33,2009,Delhi Capitals,Rajasthan Royals,SuperSport Park
+61,47,2009,Mumbai Indians,Kolkata Knight Riders,St George's Park
+62,69,2009,Chennai Super Kings,Deccan Chargers,Kingsmead
+38,32,2009,Punjab Kings,Rajasthan Royals,St George's Park
+45,43,2009,Royal Challengers Bangalore,Delhi Capitals,Newlands
+55,50,2009,Deccan Chargers,Mumbai Indians,Kingsmead
+49,44,2009,Royal Challengers Bangalore,Punjab Kings,Kingsmead
+54,38,2009,Rajasthan Royals,Kolkata Knight Riders,Newlands
+59,61,2009,Delhi Capitals,Chennai Super Kings,Kingsmead
+62,31,2009,Deccan Chargers,Royal Challengers Bangalore,Newlands
+46,60,2009,Punjab Kings,Kolkata Knight Riders,Kingsmead
+68,46,2009,Chennai Super Kings,Royal Challengers Bangalore,St George's Park
+21,37,2009,Kolkata Knight Riders,Deccan Chargers,Newlands
+67,58,2009,Punjab Kings,Delhi Capitals,Newlands
+29,14,2009,Royal Challengers Bangalore,Rajasthan Royals,Newlands
+40,40,2009,Mumbai Indians,Chennai Super Kings,Newlands
+42,41,2008,Chennai Super Kings,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai"
+35,35,2008,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai"
+58,28,2008,Rajasthan Royals,Delhi Capitals,"Wankhede Stadium, Mumbai"
+26,44,2008,Deccan Chargers,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali"
+29,36,2008,Mumbai Indians,Rajasthan Royals,M Chinnaswamy Stadium
+47,51,2008,Punjab Kings,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal"
+46,33,2008,Royal Challengers Bangalore,Deccan Chargers,Sawai Mansingh Stadium
+67,65,2008,Rajasthan Royals,Chennai Super Kings,"Eden Gardens, Kolkata"
+60,56,2008,Mumbai Indians,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal"
+42,74,2008,Deccan Chargers,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+23,44,2008,Royal Challengers Bangalore,Chennai Super Kings,Feroz Shah Kotla
+43,68,2008,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+32,42,2008,Kolkata Knight Riders,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai"
+41,71,2008,Royal Challengers Bangalore,Delhi Capitals,"Wankhede Stadium, Mumbai"
+35,43,2008,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata"
+57,32,2008,Mumbai Indians,Deccan Chargers,M Chinnaswamy Stadium
+51,23,2008,Rajasthan Royals,Royal Challengers Bangalore,"Eden Gardens, Kolkata"
+68,73,2008,Delhi Capitals,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+27,68,2008,Kolkata Knight Riders,Mumbai Indians,Feroz Shah Kotla
+48,71,2008,Delhi Capitals,Deccan Chargers,Sawai Mansingh Stadium
+51,38,2008,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai"
+28,78,2008,Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla
+35,37,2008,Kolkata Knight Riders,Delhi Capitals,"Wankhede Stadium, Mumbai"
+50,42,2008,Royal Challengers Bangalore,Punjab Kings,"Eden Gardens, Kolkata"
+47,21,2008,Delhi Capitals,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali"
+43,55,2008,Kolkata Knight Riders,Deccan Chargers,Sawai Mansingh Stadium
+53,35,2008,Chennai Super Kings,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+36,39,2008,Royal Challengers Bangalore,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+50,50,2008,Deccan Chargers,Rajasthan Royals,Sawai Mansingh Stadium
+41,35,2008,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla
+50,62,2008,Delhi Capitals,Chennai Super Kings,"Eden Gardens, Kolkata"
+48,34,2008,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai"
+34,50,2008,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk, Chennai"
+26,52,2008,Royal Challengers Bangalore,Punjab Kings,M Chinnaswamy Stadium
+38,44,2008,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium
+50,37,2008,Mumbai Indians,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai"
+49,31,2008,Punjab Kings,Kolkata Knight Riders,M Chinnaswamy Stadium
+41,43,2008,Deccan Chargers,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali"
+47,64,2008,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai"
+45,51,2008,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium
+50,41,2008,Deccan Chargers,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal"
+58,55,2008,Delhi Capitals,Royal Challengers Bangalore,Feroz Shah Kotla
+40,38,2008,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata"
+36,45,2008,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium
+45,55,2008,Delhi Capitals,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+27,60,2008,Mumbai Indians,Deccan Chargers,"Dr DY Patil Sports Academy, Mumbai"
+61,45,2008,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai"
+57,45,2008,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium
+60,39,2008,Punjab Kings,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali"
+58,73,2008,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal"
+53,52,2008,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai"
+25,48,2008,Deccan Chargers,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal"
+54,53,2008,Punjab Kings,Rajasthan Royals,Sawai Mansingh Stadium
+39,26,2008,Deccan Chargers,Kolkata Knight Riders,"Eden Gardens, Kolkata"
+47,40,2008,Mumbai Indians,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai"
+40,55,2008,Rajasthan Royals,Delhi Capitals,Feroz Shah Kotla
+53,63,2008,Chennai Super Kings,Punjab Kings,"Punjab Cricket Association Stadium, Mohali"
+61,26,2008,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium
