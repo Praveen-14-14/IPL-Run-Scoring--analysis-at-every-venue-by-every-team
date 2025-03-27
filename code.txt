@@ -1,0 +1,20 @@
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, when
+
+# Initialize Spark Session
+spark = SparkSession.builder.appName("CleanData").getOrCreate()
+
+# Load CSV file from local system
+df = spark.read.csv("data.csv", header=True, inferSchema=True)
+
+# Show the first few rows before processing
+…
+# Replace empty strings ("") with NULL values
+df = df.select([when(col(c) == "", None).otherwise(col(c)).alias(c) for c in df.columns])
+
+# Show the cleaned DataFrame
+df.show()
+
+
+# Save the updated DataFrame as a new CSV file
+df.coalesce(1).write.csv("cleaned_data.csv", header=True, mode="overwrite")
